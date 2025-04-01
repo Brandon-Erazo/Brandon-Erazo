@@ -1,25 +1,25 @@
-<h1 align="center">Hi , I'm Brandon Erazo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , soy Brandon Erazo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Penguin" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlwaTh6NzlybmIyeGJicXMzdzE0ZGdxdWtieTFwcTkwMGtkYjBqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" />
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I'm a programming student at UTN, currently halfway through my degree. I'm expanding my knowledge in front-end and back-end development through a Full Stack Web Development scholarship. I'm passionate about learning and creating new, productive, innovative, and creative solutions.
+Soy estudiante de programación en la UTN y actualmente estoy a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end gracias a una beca en Desarrollo Web Full Stack. Me apasiona aprender y crear soluciones nuevas, productivas, innovadoras y creativas.
 
-- 🌱 I’m currently learning ...
+- 🌱 Actualmente estoy aprendiendo...
   - HTML
   - CSS
   - JavaScript
   - C++
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything; I’m happy to help.
-- Outside of tech, 💜 I love swimming, 🏋️‍♂️ working out at the gym, and 📖 reading science fiction and dystopian novels.
-- 📫 Reach out to me at: <a href="brandon.andres.erazo@gmail.com">brandon.andres.erazo@gmail.com</a>
+- 👯 Me gustaría colaborar en proyectos de código abierto.
+- ✔  Pregúntame sobre cualquier cosa; estaré encantado de ayudar.
+- Fuera de la tecnología, 💜 me encanta nadar, 🏋️‍♂️ hacer ejercicio en el gimnasio y 📖 leer novelas de ciencia ficción y distopías.
+- 📫 Puedes contactarme en: <a href="brandon.andres.erazo@gmail.com">brandon.andres.erazo@gmail.com</a>
 
 
-## My Skills Include
+## Mis habilidades incluyen
 
-<h4> Languages </h4>
+<h4> Languajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,7 +31,7 @@ I'm a programming student at UTN, currently halfway through my degree. I'm expan
  <span>   
    <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white>
  
-## Contact me
+## Contactame
 
 <a href="https://github.com/Brandon-Erazo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
