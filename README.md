@@ -1,4 +1,4 @@
-<h1 align="center">Hola , soy Brandon Erazo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Brandon Erazo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Penguin" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlwaTh6NzlybmIyeGJicXMzdzE0ZGdxdWtieTFwcTkwMGtkYjBqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" />
 
