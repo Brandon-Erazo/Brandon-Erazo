@@ -11,7 +11,6 @@ Soy estudiante de programación en la UTN y actualmente estoy a mitad de mi carr
   - HTML
   - CSS
   - JavaScript
-  - C++
 - 👯 Me gustaría colaborar en proyectos de código abierto.
 - ✔  Pregúntame sobre cualquier cosa; estaré encantado de ayudar.
 - Fuera de la tecnología, 💜 me encanta nadar, 🏋️‍♂️ hacer ejercicio en el gimnasio y 📖 leer novelas de ciencia ficción y distopías.
@@ -26,6 +25,7 @@ Soy estudiante de programación en la UTN y actualmente estoy a mitad de mi carr
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <h4> Backend </h4>
+ <span>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
