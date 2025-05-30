@@ -20,13 +20,15 @@ Soy estudiante de programación en la UTN y actualmente estoy a mitad de mi carr
 
 ## Mis habilidades incluyen
 
-<h4> Languajes </h4>
+<h4> Frontend </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <h4> Backend </h4>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
 
  <h4> IDEs/Editors <h4>
  <span>   
