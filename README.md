@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer | QA Tester Manual </h3>
 <p align="center">
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ## Sobre mi 
 
 Soy estudiante de programación en la UTN y actualmente estoy a mitad de mi carrera. Estoy ampliando mis conocimientos en desarrollo front-end y back-end gracias a una beca en Desarrollo Web Full Stack. Me apasiona aprender y crear soluciones nuevas, productivas, innovadoras y creativas.
 
@@ -18,7 +18,7 @@ Soy estudiante de programación en la UTN y actualmente estoy a mitad de mi carr
 - 📫 Puedes contactarme en: <a href="brandon.andres.erazo@gmail.com">brandon.andres.erazo@gmail.com</a>
 
 
-## Mis habilidades incluyen
+## Habilidades 
 
 <h4> Frontend </h4>
 <span> 
